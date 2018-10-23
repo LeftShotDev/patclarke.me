@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/PatClarke27/patclarke.me/issues"
   },
-  "homepage": "https://github.com/PatClarke27/patclarke.me#readme"
+  "homepage": "https://github.com/PatClarke27/patclarke.me#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.9.7"
+  }
 }
