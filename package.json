@@ -1,0 +1,20 @@
+{
+  "name": "patclarke.me",
+  "version": "1.0.0",
+  "description": "Personal Website setup",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatClarke27/patclarke.me.git"
+  },
+  "author": "Pat Clarke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatClarke27/patclarke.me/issues"
+  },
+  "homepage": "https://github.com/PatClarke27/patclarke.me#readme"
+}
